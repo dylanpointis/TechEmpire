@@ -1,0 +1,13 @@
+C:\Users\Usuario\source\repos\ASP.NET\TechEmpire - Desarrollo y arquitectura web\BLL\bin\Debug\BLL.dll
+C:\Users\Usuario\source\repos\ASP.NET\TechEmpire - Desarrollo y arquitectura web\BLL\bin\Debug\BLL.pdb
+C:\Users\Usuario\source\repos\ASP.NET\TechEmpire - Desarrollo y arquitectura web\BLL\bin\Debug\BE.dll
+C:\Users\Usuario\source\repos\ASP.NET\TechEmpire - Desarrollo y arquitectura web\BLL\bin\Debug\DAL.dll
+C:\Users\Usuario\source\repos\ASP.NET\TechEmpire - Desarrollo y arquitectura web\BLL\bin\Debug\Services.dll
+C:\Users\Usuario\source\repos\ASP.NET\TechEmpire - Desarrollo y arquitectura web\BLL\bin\Debug\BE.pdb
+C:\Users\Usuario\source\repos\ASP.NET\TechEmpire - Desarrollo y arquitectura web\BLL\bin\Debug\DAL.pdb
+C:\Users\Usuario\source\repos\ASP.NET\TechEmpire - Desarrollo y arquitectura web\BLL\bin\Debug\Services.pdb
+C:\Users\Usuario\source\repos\ASP.NET\TechEmpire - Desarrollo y arquitectura web\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\ASP.NET\TechEmpire - Desarrollo y arquitectura web\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ASP.NET\TechEmpire - Desarrollo y arquitectura web\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\Usuario\source\repos\ASP.NET\TechEmpire - Desarrollo y arquitectura web\BLL\obj\Debug\BLL.dll
+C:\Users\Usuario\source\repos\ASP.NET\TechEmpire - Desarrollo y arquitectura web\BLL\obj\Debug\BLL.pdb

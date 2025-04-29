@@ -1,0 +1,9 @@
+C:\Users\Usuario\source\repos\ASP.NET\TechEmpire - Desarrollo y arquitectura web\Services\bin\Debug\Services.dll
+C:\Users\Usuario\source\repos\ASP.NET\TechEmpire - Desarrollo y arquitectura web\Services\bin\Debug\Services.pdb
+C:\Users\Usuario\source\repos\ASP.NET\TechEmpire - Desarrollo y arquitectura web\Services\bin\Debug\BE.dll
+C:\Users\Usuario\source\repos\ASP.NET\TechEmpire - Desarrollo y arquitectura web\Services\bin\Debug\BE.pdb
+C:\Users\Usuario\source\repos\ASP.NET\TechEmpire - Desarrollo y arquitectura web\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\ASP.NET\TechEmpire - Desarrollo y arquitectura web\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ASP.NET\TechEmpire - Desarrollo y arquitectura web\Services\obj\Debug\Services.csproj.Up2Date
+C:\Users\Usuario\source\repos\ASP.NET\TechEmpire - Desarrollo y arquitectura web\Services\obj\Debug\Services.dll
+C:\Users\Usuario\source\repos\ASP.NET\TechEmpire - Desarrollo y arquitectura web\Services\obj\Debug\Services.pdb

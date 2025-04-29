@@ -1,0 +1,11 @@
+C:\Users\Usuario\source\repos\ASP.NET\TechEmpire - Desarrollo y arquitectura web\DAL\bin\Debug\DAL.dll
+C:\Users\Usuario\source\repos\ASP.NET\TechEmpire - Desarrollo y arquitectura web\DAL\bin\Debug\DAL.pdb
+C:\Users\Usuario\source\repos\ASP.NET\TechEmpire - Desarrollo y arquitectura web\DAL\bin\Debug\BE.dll
+C:\Users\Usuario\source\repos\ASP.NET\TechEmpire - Desarrollo y arquitectura web\DAL\bin\Debug\Services.dll
+C:\Users\Usuario\source\repos\ASP.NET\TechEmpire - Desarrollo y arquitectura web\DAL\bin\Debug\BE.pdb
+C:\Users\Usuario\source\repos\ASP.NET\TechEmpire - Desarrollo y arquitectura web\DAL\bin\Debug\Services.pdb
+C:\Users\Usuario\source\repos\ASP.NET\TechEmpire - Desarrollo y arquitectura web\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\ASP.NET\TechEmpire - Desarrollo y arquitectura web\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\ASP.NET\TechEmpire - Desarrollo y arquitectura web\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\Usuario\source\repos\ASP.NET\TechEmpire - Desarrollo y arquitectura web\DAL\obj\Debug\DAL.dll
+C:\Users\Usuario\source\repos\ASP.NET\TechEmpire - Desarrollo y arquitectura web\DAL\obj\Debug\DAL.pdb
