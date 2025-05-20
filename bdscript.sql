@@ -5,17 +5,17 @@ GO
 
 
 CREATE TABLE Productos(
-CodigoProducto int,
+CodigoProducto int PRIMARY KEY,
 Nombre varchar(50) NOT NULL,
 Descripcion varchar(150) NOT NULL,
 Marca varchar(50) NOT NULL,
-Color varchar(50) NOT NULL,
+Color varchar(50),
 ImgUrl varchar(150),
 Precio float NOT NULL,
 Stock smallint NOT NULL,
-StockMinimo smallint NOT NULL,
-StockMaximo smallint NOT NULL,
-BorradoLogico bit
+StockMinimo smallint,
+StockMaximo smallint,
+Activo bit
 )
 
 
@@ -59,10 +59,11 @@ GO
 
 
 INSERT INTO Productos VALUES
-(1, 'RTX 3090 NVIDIA MSI', 'Tamaño de la memoria: 24 GB GDDR6X', 'NVIDIA MSI', 'Negro', '', 1700000, 30, 20, 50, 0),
-( 1, 'Teclado Razer', 'Switch Red','Razer', 'Negro', '', 200000, 30, 20, 50, 0);
+(1, 'RTX 3090 NVIDIA MSI', 'Tamaño de la memoria: 24 GB GDDR6X', 'NVIDIA MSI', 'Negro', '', 1700000, 30, 20, 50, 1),
+( 2, 'Teclado Razer', 'Switch Red','Razer', 'Negro', '', 200000, 30, 20, 50, 1);
 
 
 INSERT INTO Roles VALUES('Admin')
 INSERT INTO Roles VALUES('Cliente')
+--clave= clave123
 INSERT INTO Usuarios VALUES ('Admin', 12345678, 'Admin', 'admin@gmail.com', 'Admin', '5ac0852e770506dcd80f1a36d20ba7878bf82244b836d9324593bd14bc56dcb5', 1, 0, 1,0);
