@@ -14,7 +14,7 @@ namespace TechEmpire___Desarrollo_y_arquitectura_web
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-            //Ojo Aca
+            //Esta bien esto
             BEUsuario user = Session["User"] as BEUsuario;
             if (user == null || user.codRol != 1)
             {
