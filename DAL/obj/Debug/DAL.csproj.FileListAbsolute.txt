@@ -20,3 +20,14 @@ C:\Users\USUARIO\Source\Repos\TechEmpire\DAL\obj\Debug\DAL.csproj.CoreCompileInp
 C:\Users\USUARIO\Source\Repos\TechEmpire\DAL\obj\Debug\DAL.csproj.Up2Date
 C:\Users\USUARIO\Source\Repos\TechEmpire\DAL\obj\Debug\DAL.dll
 C:\Users\USUARIO\Source\Repos\TechEmpire\DAL\obj\Debug\DAL.pdb
+D:\techempire\DAL\bin\Debug\DAL.dll
+D:\techempire\DAL\bin\Debug\DAL.pdb
+D:\techempire\DAL\bin\Debug\BE.dll
+D:\techempire\DAL\bin\Debug\Services.dll
+D:\techempire\DAL\bin\Debug\BE.pdb
+D:\techempire\DAL\bin\Debug\Services.pdb
+D:\techempire\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\techempire\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\techempire\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\techempire\DAL\obj\Debug\DAL.dll
+D:\techempire\DAL\obj\Debug\DAL.pdb

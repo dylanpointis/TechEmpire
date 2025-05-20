@@ -19,8 +19,8 @@ namespace TechEmpire___Desarrollo_y_arquitectura_web
             if (!IsPostBack)
             {
                 
-                //gvProductos.DataSource = list;
-                //gvProductos.DataBind();
+                gvProductos.DataSource = listaProductos;
+                gvProductos.DataBind();
 
                 rptProductos.DataSource = listaProductos;
                 rptProductos.DataBind();

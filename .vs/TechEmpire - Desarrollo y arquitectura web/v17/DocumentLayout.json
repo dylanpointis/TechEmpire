@@ -1,30 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\USUARIO\\source\\repos\\TechEmpire\\",
+  "WorkspaceRootPath": "D:\\techempire\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BCC804CE-A84F-44A7-8D2B-48EB11405EDA}|TechEmpire - Desarrollo y arquitectura web\\UI.csproj|c:\\users\\usuario\\source\\repos\\techempire\\techempire - desarrollo y arquitectura web\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BCC804CE-A84F-44A7-8D2B-48EB11405EDA}|TechEmpire - Desarrollo y arquitectura web\\UI.csproj|solutionrelative:techempire - desarrollo y arquitectura web\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCC804CE-A84F-44A7-8D2B-48EB11405EDA}|TechEmpire - Desarrollo y arquitectura web\\UI.csproj|d:\\techempire\\techempire - desarrollo y arquitectura web\\auditoriaeventos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC804CE-A84F-44A7-8D2B-48EB11405EDA}|TechEmpire - Desarrollo y arquitectura web\\UI.csproj|solutionrelative:techempire - desarrollo y arquitectura web\\auditoriaeventos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{42F452A4-8FF1-4748-BA1D-193DDCFCDF15}|DAL\\DAL.csproj|c:\\users\\usuario\\source\\repos\\techempire\\dal\\dalevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42F452A4-8FF1-4748-BA1D-193DDCFCDF15}|DAL\\DAL.csproj|solutionrelative:dal\\dalevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCC804CE-A84F-44A7-8D2B-48EB11405EDA}|TechEmpire - Desarrollo y arquitectura web\\UI.csproj|d:\\techempire\\techempire - desarrollo y arquitectura web\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC804CE-A84F-44A7-8D2B-48EB11405EDA}|TechEmpire - Desarrollo y arquitectura web\\UI.csproj|solutionrelative:techempire - desarrollo y arquitectura web\\default.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B6A393C8-6756-447E-9DA8-67CD74563CC1}|BLL\\BLL.csproj|c:\\users\\usuario\\source\\repos\\techempire\\bll\\bllevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6A393C8-6756-447E-9DA8-67CD74563CC1}|BLL\\BLL.csproj|solutionrelative:bll\\bllevento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCC804CE-A84F-44A7-8D2B-48EB11405EDA}|TechEmpire - Desarrollo y arquitectura web\\UI.csproj|d:\\techempire\\techempire - desarrollo y arquitectura web\\auditoriaeventos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{BCC804CE-A84F-44A7-8D2B-48EB11405EDA}|TechEmpire - Desarrollo y arquitectura web\\UI.csproj|solutionrelative:techempire - desarrollo y arquitectura web\\auditoriaeventos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9C7A05D9-3B2E-4814-8825-6EF7CDF24F93}|Services\\Services.csproj|c:\\users\\usuario\\source\\repos\\techempire\\services\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9C7A05D9-3B2E-4814-8825-6EF7CDF24F93}|Services\\Services.csproj|solutionrelative:services\\evento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42F452A4-8FF1-4748-BA1D-193DDCFCDF15}|DAL\\DAL.csproj|c:\\users\\usuario\\source\\repos\\techempire\\dal\\dalusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42F452A4-8FF1-4748-BA1D-193DDCFCDF15}|DAL\\DAL.csproj|solutionrelative:dal\\dalusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF9A7199-702E-4E3B-A922-DE98C6C370DE}|BE\\BE.csproj|c:\\users\\usuario\\source\\repos\\techempire\\be\\beusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EF9A7199-702E-4E3B-A922-DE98C6C370DE}|BE\\BE.csproj|solutionrelative:be\\beusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9C7A05D9-3B2E-4814-8825-6EF7CDF24F93}|Services\\Services.csproj|d:\\techempire\\services\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C7A05D9-3B2E-4814-8825-6EF7CDF24F93}|Services\\Services.csproj|solutionrelative:services\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,80 +34,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "DALUsuario.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\TechEmpire\\DAL\\DALUsuario.cs",
-              "RelativeDocumentMoniker": "DAL\\DALUsuario.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\TechEmpire\\DAL\\DALUsuario.cs",
-              "RelativeToolTip": "DAL\\DALUsuario.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T19:58:12.341Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "BEUsuario.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\TechEmpire\\BE\\BEUsuario.cs",
-              "RelativeDocumentMoniker": "BE\\BEUsuario.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\TechEmpire\\BE\\BEUsuario.cs",
-              "RelativeToolTip": "BE\\BEUsuario.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAmwB4AAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T19:53:52.154Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Evento.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\TechEmpire\\Services\\Evento.cs",
-              "RelativeDocumentMoniker": "Services\\Evento.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\TechEmpire\\Services\\Evento.cs",
-              "RelativeToolTip": "Services\\Evento.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA4wBEAAABYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T19:52:31.153Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DALEvento.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\TechEmpire\\DAL\\DALEvento.cs",
-              "RelativeDocumentMoniker": "DAL\\DALEvento.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\TechEmpire\\DAL\\DALEvento.cs",
-              "RelativeToolTip": "DAL\\DALEvento.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Title": "Default.aspx.cs",
+              "DocumentMoniker": "D:\\techempire\\TechEmpire - Desarrollo y arquitectura web\\Default.aspx.cs",
+              "RelativeDocumentMoniker": "TechEmpire - Desarrollo y arquitectura web\\Default.aspx.cs",
+              "ToolTip": "D:\\techempire\\TechEmpire - Desarrollo y arquitectura web\\Default.aspx.cs",
+              "RelativeToolTip": "TechEmpire - Desarrollo y arquitectura web\\Default.aspx.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAARwBsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T19:48:23.912Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BLLEvento.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\TechEmpire\\BLL\\BLLEvento.cs",
-              "RelativeDocumentMoniker": "BLL\\BLLEvento.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\TechEmpire\\BLL\\BLLEvento.cs",
-              "RelativeToolTip": "BLL\\BLLEvento.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T19:47:27.271Z",
+              "WhenOpened": "2025-05-20T22:58:22.451Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Login.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\USUARIO\\source\\repos\\TechEmpire\\TechEmpire - Desarrollo y arquitectura web\\Login.aspx.cs",
-              "RelativeDocumentMoniker": "TechEmpire - Desarrollo y arquitectura web\\Login.aspx.cs",
-              "ToolTip": "C:\\Users\\USUARIO\\source\\repos\\TechEmpire\\TechEmpire - Desarrollo y arquitectura web\\Login.aspx.cs",
-              "RelativeToolTip": "TechEmpire - Desarrollo y arquitectura web\\Login.aspx.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowCoAAAAAAAAAAAAAAA==",
+              "Title": "AuditoriaEventos.aspx.cs",
+              "DocumentMoniker": "D:\\techempire\\TechEmpire - Desarrollo y arquitectura web\\AuditoriaEventos.aspx.cs",
+              "RelativeDocumentMoniker": "TechEmpire - Desarrollo y arquitectura web\\AuditoriaEventos.aspx.cs",
+              "ToolTip": "D:\\techempire\\TechEmpire - Desarrollo y arquitectura web\\AuditoriaEventos.aspx.cs",
+              "RelativeToolTip": "TechEmpire - Desarrollo y arquitectura web\\AuditoriaEventos.aspx.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAhwBEAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T19:40:26.161Z",
+              "WhenOpened": "2025-05-20T22:58:09.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SessionManager.cs",
+              "DocumentMoniker": "D:\\techempire\\Services\\SessionManager.cs",
+              "RelativeDocumentMoniker": "Services\\SessionManager.cs",
+              "ToolTip": "D:\\techempire\\Services\\SessionManager.cs",
+              "RelativeToolTip": "Services\\SessionManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T22:56:55.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuditoriaEventos.aspx",
+              "DocumentMoniker": "D:\\techempire\\TechEmpire - Desarrollo y arquitectura web\\AuditoriaEventos.aspx",
+              "RelativeDocumentMoniker": "TechEmpire - Desarrollo y arquitectura web\\AuditoriaEventos.aspx",
+              "ToolTip": "D:\\techempire\\TechEmpire - Desarrollo y arquitectura web\\AuditoriaEventos.aspx",
+              "RelativeToolTip": "TechEmpire - Desarrollo y arquitectura web\\AuditoriaEventos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-05-20T22:56:15.632Z",
               "EditorCaption": ""
             }
           ]

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Data.SqlClient;
 using System.Diagnostics;
 using System.Linq;
@@ -25,6 +26,11 @@ namespace DAL
                 new SqlParameter("@Hora", evento.Hora)
              };
             dalCon.EjecutarProcAlmacenado("RegistrarEvento", parametros);
+        }
+
+        public DataTable TraerListaEventos()
+        {
+            return dalCon.TraerTabla("Eventos");
         }
     }
 }

@@ -24,3 +24,16 @@ C:\Users\USUARIO\Source\Repos\TechEmpire\BLL\obj\Debug\BLL.csproj.CoreCompileInp
 C:\Users\USUARIO\Source\Repos\TechEmpire\BLL\obj\Debug\BLL.csproj.Up2Date
 C:\Users\USUARIO\Source\Repos\TechEmpire\BLL\obj\Debug\BLL.dll
 C:\Users\USUARIO\Source\Repos\TechEmpire\BLL\obj\Debug\BLL.pdb
+D:\techempire\BLL\bin\Debug\BLL.dll
+D:\techempire\BLL\bin\Debug\BLL.pdb
+D:\techempire\BLL\bin\Debug\BE.dll
+D:\techempire\BLL\bin\Debug\DAL.dll
+D:\techempire\BLL\bin\Debug\Services.dll
+D:\techempire\BLL\bin\Debug\BE.pdb
+D:\techempire\BLL\bin\Debug\DAL.pdb
+D:\techempire\BLL\bin\Debug\Services.pdb
+D:\techempire\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\techempire\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\techempire\BLL\obj\Debug\BLL.csproj.Up2Date
+D:\techempire\BLL\obj\Debug\BLL.dll
+D:\techempire\BLL\obj\Debug\BLL.pdb

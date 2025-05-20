@@ -16,3 +16,12 @@ C:\Users\USUARIO\Source\Repos\TechEmpire\Services\obj\Debug\Services.csproj.Core
 C:\Users\USUARIO\Source\Repos\TechEmpire\Services\obj\Debug\Services.csproj.Up2Date
 C:\Users\USUARIO\Source\Repos\TechEmpire\Services\obj\Debug\Services.dll
 C:\Users\USUARIO\Source\Repos\TechEmpire\Services\obj\Debug\Services.pdb
+D:\techempire\Services\bin\Debug\Services.dll
+D:\techempire\Services\bin\Debug\Services.pdb
+D:\techempire\Services\bin\Debug\BE.dll
+D:\techempire\Services\bin\Debug\BE.pdb
+D:\techempire\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+D:\techempire\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+D:\techempire\Services\obj\Debug\Services.csproj.Up2Date
+D:\techempire\Services\obj\Debug\Services.dll
+D:\techempire\Services\obj\Debug\Services.pdb

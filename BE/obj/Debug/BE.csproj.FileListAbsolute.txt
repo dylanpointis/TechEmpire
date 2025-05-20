@@ -10,3 +10,9 @@ C:\Users\USUARIO\Source\Repos\TechEmpire\BE\obj\Debug\BE.csproj.AssemblyReferenc
 C:\Users\USUARIO\Source\Repos\TechEmpire\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
 C:\Users\USUARIO\Source\Repos\TechEmpire\BE\obj\Debug\BE.dll
 C:\Users\USUARIO\Source\Repos\TechEmpire\BE\obj\Debug\BE.pdb
+D:\techempire\BE\bin\Debug\BE.dll
+D:\techempire\BE\bin\Debug\BE.pdb
+D:\techempire\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+D:\techempire\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+D:\techempire\BE\obj\Debug\BE.dll
+D:\techempire\BE\obj\Debug\BE.pdb

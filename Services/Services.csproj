@@ -45,6 +45,7 @@
     <Compile Include="Encriptacion.cs" />
     <Compile Include="Evento.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SessionManager.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\BE\BE.csproj">

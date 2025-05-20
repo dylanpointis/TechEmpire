@@ -13,7 +13,18 @@
             </div>
         </section>
         <hr />
-        
+
+
+        <asp:GridView ID="gvProductos" runat="server" AutoGenerateColumns="false">
+    <Columns>
+        <asp:BoundField DataField="Nombre" HeaderText="Nombre" />
+        <asp:BoundField DataField="Descripcion" HeaderText="Descripción" />
+        <asp:BoundField DataField="Marca" HeaderText="Marca" />
+        <asp:BoundField DataField="Precio" HeaderText="Precio" DataFormatString="{0:C}" />
+        <asp:BoundField DataField="Stock" HeaderText="Stock Disponible" />
+    </Columns>
+</asp:GridView>
+
         
 
         <br />
