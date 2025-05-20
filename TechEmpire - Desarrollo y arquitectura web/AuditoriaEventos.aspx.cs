@@ -14,13 +14,12 @@ namespace TechEmpire___Desarrollo_y_arquitectura_web
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            //Ojo Aca
             BEUsuario user = Session["User"] as BEUsuario;
             if (user == null || user.codRol != 1)
             {
                 Response.Redirect("Login.aspx");
             }
-
-
             BLLEvento bLLEvento = new BLLEvento();
 
             List<Evento> events = bLLEvento.TraerListaEventos();
