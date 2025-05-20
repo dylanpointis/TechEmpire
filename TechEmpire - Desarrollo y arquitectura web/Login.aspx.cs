@@ -1,21 +1,24 @@
 ﻿using BE;
 using BLL;
+using Services;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
+using BLL;
 
 namespace TechEmpire___Desarrollo_y_arquitectura_web
 {
     public partial class Login : System.Web.UI.Page
     {
         private BLLUsuario bllUsuario = new BLLUsuario();
+        private BLLEvento bllEvento = new BLLEvento();
 
         protected void Page_Load(object sender, EventArgs e)
         {
-            //prueba commit
+            
         }
 
         protected void btnLogin_Click(object sender, EventArgs e)
@@ -38,6 +41,7 @@ namespace TechEmpire___Desarrollo_y_arquitectura_web
 
                 Session["User"] = user;
 
+                bllEvento.RegistrarEvento(new Evento(txtNombreUsuario.Text, "Sesiones", "Inicio sesión", 1));
 
                 Response.Redirect("Default.aspx");
             }

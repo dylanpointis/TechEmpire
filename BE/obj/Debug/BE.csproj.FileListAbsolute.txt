@@ -4,3 +4,9 @@ C:\Users\Usuario\source\repos\ASP.NET\TechEmpire - Desarrollo y arquitectura web
 C:\Users\Usuario\source\repos\ASP.NET\TechEmpire - Desarrollo y arquitectura web\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
 C:\Users\Usuario\source\repos\ASP.NET\TechEmpire - Desarrollo y arquitectura web\BE\obj\Debug\BE.dll
 C:\Users\Usuario\source\repos\ASP.NET\TechEmpire - Desarrollo y arquitectura web\BE\obj\Debug\BE.pdb
+C:\Users\USUARIO\Source\Repos\TechEmpire\BE\bin\Debug\BE.dll
+C:\Users\USUARIO\Source\Repos\TechEmpire\BE\bin\Debug\BE.pdb
+C:\Users\USUARIO\Source\Repos\TechEmpire\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Source\Repos\TechEmpire\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Source\Repos\TechEmpire\BE\obj\Debug\BE.dll
+C:\Users\USUARIO\Source\Repos\TechEmpire\BE\obj\Debug\BE.pdb

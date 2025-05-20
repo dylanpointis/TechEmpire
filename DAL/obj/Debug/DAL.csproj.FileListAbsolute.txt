@@ -9,3 +9,14 @@ C:\Users\Usuario\source\repos\ASP.NET\TechEmpire - Desarrollo y arquitectura web
 C:\Users\Usuario\source\repos\ASP.NET\TechEmpire - Desarrollo y arquitectura web\DAL\obj\Debug\DAL.csproj.Up2Date
 C:\Users\Usuario\source\repos\ASP.NET\TechEmpire - Desarrollo y arquitectura web\DAL\obj\Debug\DAL.dll
 C:\Users\Usuario\source\repos\ASP.NET\TechEmpire - Desarrollo y arquitectura web\DAL\obj\Debug\DAL.pdb
+C:\Users\USUARIO\Source\Repos\TechEmpire\DAL\bin\Debug\DAL.dll
+C:\Users\USUARIO\Source\Repos\TechEmpire\DAL\bin\Debug\DAL.pdb
+C:\Users\USUARIO\Source\Repos\TechEmpire\DAL\bin\Debug\BE.dll
+C:\Users\USUARIO\Source\Repos\TechEmpire\DAL\bin\Debug\Services.dll
+C:\Users\USUARIO\Source\Repos\TechEmpire\DAL\bin\Debug\BE.pdb
+C:\Users\USUARIO\Source\Repos\TechEmpire\DAL\bin\Debug\Services.pdb
+C:\Users\USUARIO\Source\Repos\TechEmpire\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Source\Repos\TechEmpire\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Source\Repos\TechEmpire\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\USUARIO\Source\Repos\TechEmpire\DAL\obj\Debug\DAL.dll
+C:\Users\USUARIO\Source\Repos\TechEmpire\DAL\obj\Debug\DAL.pdb

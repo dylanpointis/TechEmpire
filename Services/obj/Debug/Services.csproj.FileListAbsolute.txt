@@ -7,3 +7,12 @@ C:\Users\Usuario\source\repos\ASP.NET\TechEmpire - Desarrollo y arquitectura web
 C:\Users\Usuario\source\repos\ASP.NET\TechEmpire - Desarrollo y arquitectura web\Services\obj\Debug\Services.csproj.Up2Date
 C:\Users\Usuario\source\repos\ASP.NET\TechEmpire - Desarrollo y arquitectura web\Services\obj\Debug\Services.dll
 C:\Users\Usuario\source\repos\ASP.NET\TechEmpire - Desarrollo y arquitectura web\Services\obj\Debug\Services.pdb
+C:\Users\USUARIO\Source\Repos\TechEmpire\Services\bin\Debug\Services.dll
+C:\Users\USUARIO\Source\Repos\TechEmpire\Services\bin\Debug\Services.pdb
+C:\Users\USUARIO\Source\Repos\TechEmpire\Services\bin\Debug\BE.dll
+C:\Users\USUARIO\Source\Repos\TechEmpire\Services\bin\Debug\BE.pdb
+C:\Users\USUARIO\Source\Repos\TechEmpire\Services\obj\Debug\Services.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Source\Repos\TechEmpire\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Source\Repos\TechEmpire\Services\obj\Debug\Services.csproj.Up2Date
+C:\Users\USUARIO\Source\Repos\TechEmpire\Services\obj\Debug\Services.dll
+C:\Users\USUARIO\Source\Repos\TechEmpire\Services\obj\Debug\Services.pdb
