@@ -41,6 +41,18 @@ ContFallidos smallint
 );
 
 
+CREATE TABLE Eventos(
+CodEvento BIGINT PRIMARY KEY IDENTITY(1,1),
+NombreUsuario varchar(50) FOREIGN KEY REFERENCES Usuarios(NombreUsuario),
+Modulo varchar(50),
+Evento varchar(100),
+Criticiad smallint,
+Fecha varchar(11),
+Hora varchar(5),
+)
+GO
+
+
 GO
 CREATE PROCEDURE ValidarUsuario
     @NombreUsuario varchar(50),
@@ -52,6 +64,20 @@ BEGIN
 	INNER JOIN Roles R ON U.Rol = R.CodRol
 	WHERE NombreUsuario = @NombreUsuario OR DNI = @DNI OR Mail = @Email
 
+END
+GO
+
+
+CREATE PROCEDURE RegistrarEvento
+    @NombreUsuario varchar(50),
+	@Modulo varchar(50),
+	@Evento varchar(100),
+	@Criticidad smallint,
+	@Fecha varchar(11),
+	@Hora varchar(5)
+AS
+BEGIN
+    INSERT INTO Eventos VALUES (@NombreUsuario, @Modulo, @Evento, @Criticidad, @Fecha, @Hora)
 END
 GO
 
